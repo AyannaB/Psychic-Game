@@ -1,0 +1,17 @@
+body{ 
+    background-image: url("../images/psychic.jpg");
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-weight: bold; 
+}
+p{
+    margin: 20px;
+}
+#main{
+    margin-top: 20%; 
+    margin-bottom: 20%;
+    text-align: center;
+    color: white;
+}
